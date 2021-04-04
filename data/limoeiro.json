@@ -1,0 +1,11 @@
+{
+    "firm": "Limoeiro Azul",
+    "valid_at": "2021-04-29T18:00:00-03:00",
+    "owner": "Gi",
+    "wa": "62 99999999",
+    "email": "teste@teste.com", 
+    "max_number": 90,
+    "type": "free",
+    "bg": "1",
+    "is_pdf": true
+}

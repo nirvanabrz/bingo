@@ -1,0 +1,51 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Open Sans", sans-serif
+}
+
+.w-100p
+{
+    width: 100%;
+}
+
+.bt-download 
+{
+    width: 60%;
+}
+
+.icon-xxx-large
+{
+    font-size: xxx-large;
+    padding-top: 1.2rem;
+}
+
+.nav-p
+{
+    margin: initial;
+}
+
+/* footer */
+.footer a {
+    text-decoration-line: none;
+}
+
+.footer a:link {
+    color: #3a4b53;
+}
+
+.footer a:visited {
+    color: #3a4b53;
+}
+
+.footer a:hover {
+    color: blue;
+}
+
+.footer a:active {
+    color: #3a4b53;
+}
